@@ -1,3 +1,2 @@
 # srushti-demo
-This is my first repository
-Author-srushti
+This is my first repository-srushti
